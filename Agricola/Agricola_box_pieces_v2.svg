@@ -26,17 +26,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#4c566a"
      inkscape:document-units="mm"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
-     inkscape:zoom="0.54068625"
-     inkscape:cx="599.23846"
-     inkscape:cy="486.41888"
+     inkscape:zoom="0.76464583"
+     inkscape:cx="969.0761"
+     inkscape:cy="711.44049"
      inkscape:window-width="1920"
      inkscape:window-height="1061"
      inkscape:window-x="1366"
      inkscape:window-y="420"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer11">
+     inkscape:current-layer="layer9">
     <inkscape:grid
        type="xygrid"
        id="grid294"
@@ -783,7 +783,7 @@
        inkscape:groupmode="layer"
        id="layer8"
        inkscape:label="Inner Separators"
-       style="display:none">
+       style="display:inline">
       <g
          inkscape:groupmode="layer"
          id="layer9"
@@ -793,8 +793,8 @@
         <path
            id="rect2879-0"
            style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round"
-           d="m 275.5,-260.99999 v 9 h 2 v 7 h -2 v 9 h -13.99998 v 2 h -7 v -2 h -14 v -9 h -2 v -7 h 2 v -9 z"
-           sodipodi:nodetypes="ccccccccccccccccc" />
+           d="m 241.5,-235.99999 h -0.99998 v -9 h -2 v -7 h 2 v -9 H 275.5 v 9 h 2 v 7 h -2 v 9 h -13.99998 v 2 h -7 v -2 H 250.5"
+           sodipodi:nodetypes="cccccccccccccccccc" />
         <path
            id="rect2879-0-9"
            style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round"
@@ -998,11 +998,11 @@
         </g>
         <g
            id="g3862"
-           transform="rotate(90,213.25,-238.75001)">
+           transform="rotate(90,197,-198.00001)">
           <path
              id="rect2879-0-5-8-9"
              style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round"
-             d="m 303,-63.000004 v 9.000001 h 2 v 7 h -2 v 9 H 187 v 2 l -7,3e-6 v -2 l -7,-3e-6 v -9 h -2 v -7 h 2 v -9.000001 z"
+             d="m 305,-47.000003 h -2 v 9 m -51.98271,0 H 187 v 2 l -7,3e-6 v -2 l -7,-3e-6 v -9 h -2 v -7 h 2 v -9.000001 h 130 v 9.000001 h 2"
              sodipodi:nodetypes="ccccccccccccccccc" />
           <rect
              style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linejoin:round;stroke-opacity:1"
